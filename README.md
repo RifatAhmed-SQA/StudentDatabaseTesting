@@ -27,18 +27,29 @@ The project involves executing SQL queries on a student database (`studentdb`) a
 11. Find the teacher with the second highest salary  
 12. List students enrolled under the second-highest paid teacher  
 ## screenshot in output
--![image](https://github.com/user-attachments/assets/7f7cc858-e819-4bb7-8d15-f9e45e38c723)
--![image](https://github.com/user-attachments/assets/d2de04f2-a2ed-43bb-871e-090fb2af202e)
--![image](https://github.com/user-attachments/assets/5d856de6-5496-494b-b0a1-7c5614bd4522)
--![image](https://github.com/user-attachments/assets/b2139085-88db-4dd9-9797-c02b9bd925d1)
--![image](https://github.com/user-attachments/assets/d73f150d-cc1b-4dd6-95f5-ed576ac37ec1)
--![image](https://github.com/user-attachments/assets/c4b57a2e-19de-46c4-b6c1-6745193065fb)
--![image](https://github.com/user-attachments/assets/a5252535-5aa4-4f72-98b5-b80384020df9)
--![image](https://github.com/user-attachments/assets/6b7d2a30-fdef-4ff1-b38a-98ae0871a337)
--![image](https://github.com/user-attachments/assets/fc995fff-31e3-46ad-9292-21bf8a137056)
--![image](https://github.com/user-attachments/assets/da356115-3ef2-489d-8cd9-1b07a9951d9e)
--![image](https://github.com/user-attachments/assets/62003173-58a0-41d7-b908-5a5007d1cfae)
--![image](https://github.com/user-attachments/assets/36644766-a649-4121-8fee-b2a4e034f74d)
+1-![image](https://github.com/user-attachments/assets/7f7cc858-e819-4bb7-8d15-f9e45e38c723)
+
+2-![image](https://github.com/user-attachments/assets/d2de04f2-a2ed-43bb-871e-090fb2af202e)
+
+3-![image](https://github.com/user-attachments/assets/5d856de6-5496-494b-b0a1-7c5614bd4522)
+
+4-![image](https://github.com/user-attachments/assets/b2139085-88db-4dd9-9797-c02b9bd925d1)
+
+5-![image](https://github.com/user-attachments/assets/d73f150d-cc1b-4dd6-95f5-ed576ac37ec1)
+
+6-![image](https://github.com/user-attachments/assets/c4b57a2e-19de-46c4-b6c1-6745193065fb)
+
+7-![image](https://github.com/user-attachments/assets/a5252535-5aa4-4f72-98b5-b80384020df9)
+
+8-![image](https://github.com/user-attachments/assets/6b7d2a30-fdef-4ff1-b38a-98ae0871a337)
+
+9-![image](https://github.com/user-attachments/assets/fc995fff-31e3-46ad-9292-21bf8a137056)
+
+10-![image](https://github.com/user-attachments/assets/da356115-3ef2-489d-8cd9-1b07a9951d9e)
+
+11-![image](https://github.com/user-attachments/assets/62003173-58a0-41d7-b908-5a5007d1cfae)
+
+12-![image](https://github.com/user-attachments/assets/36644766-a649-4121-8fee-b2a4e034f74d)
 
 
 
