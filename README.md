@@ -27,8 +27,8 @@ The project involves executing SQL queries on a student database (`studentdb`) a
 11. Find the teacher with the second highest salary  
 12. List students enrolled under the second-highest paid teacher  
 ## screenshot in output
-![image](https://github.com/user-attachments/assets/7f7cc858-e819-4bb7-8d15-f9e45e38c723)
-![image](https://github.com/user-attachments/assets/d2de04f2-a2ed-43bb-871e-090fb2af202e)
+-![image](https://github.com/user-attachments/assets/7f7cc858-e819-4bb7-8d15-f9e45e38c723)
+-![image](https://github.com/user-attachments/assets/d2de04f2-a2ed-43bb-871e-090fb2af202e)
 ![image](https://github.com/user-attachments/assets/5d856de6-5496-494b-b0a1-7c5614bd4522)
 ![image](https://github.com/user-attachments/assets/b2139085-88db-4dd9-9797-c02b9bd925d1)
 ![image](https://github.com/user-attachments/assets/d73f150d-cc1b-4dd6-95f5-ed576ac37ec1)
